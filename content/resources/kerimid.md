@@ -4,6 +4,8 @@ description: ''
 file: /courses/3-064-polymer-engineering-fall-2003/d5de4af901acea1055e765c2ba53f442_kerimid.pdf
 file_size: 439838
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
