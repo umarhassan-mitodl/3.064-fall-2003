@@ -4,6 +4,8 @@ description: ''
 file: /courses/3-064-polymer-engineering-fall-2003/b5907d06db2f28f1ccd7b4acc0064b7a_lec_37.pdf
 file_size: 12233
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

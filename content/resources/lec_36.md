@@ -4,6 +4,8 @@ description: Notes on Thermosets and Thermoforming
 file: /courses/3-064-polymer-engineering-fall-2003/99e9753fde79645ddadc09d8835c6d24_lec_36.pdf
 file_size: 92114
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

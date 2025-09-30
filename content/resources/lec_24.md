@@ -4,6 +4,8 @@ description: Notes on Thermosetting and Thermoplastic Resins
 file: /courses/3-064-polymer-engineering-fall-2003/73e7e196084a1efd427f41cf15b52888_lec_24.pdf
 file_size: 329863
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

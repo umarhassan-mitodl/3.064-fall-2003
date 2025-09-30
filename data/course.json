@@ -28,6 +28,7 @@
     "website": "3-064-polymer-engineering-fall-2003"
   },
   "course_title": "Polymer Engineering",
+  "hide_download": true,
   "course_description": "This course offers and overview of engineering analysis and design techniques for synthetic polymers. Treatment of materials properties selection, mechanical characterization, and processing in design of load-bearing and environment-compatible structures are covered.\n",
   "department_numbers": [
     "3"
@@ -38,6 +39,7 @@
     "content": "50cbc8b2-f40c-c857-8bed-2f9cc2bbb328",
     "website": "3-064-polymer-engineering-fall-2003"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Exams",
